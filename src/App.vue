@@ -1,6 +1,6 @@
 <template>  
   
-  <PokemonPage></PokemonPage>
+  <PokemonPage/>
 </template>
 
 <script>
